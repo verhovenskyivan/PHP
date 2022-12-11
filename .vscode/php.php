@@ -13,4 +13,11 @@ if ($gender == "Male")
 else {
     print "hello, +";
 }
+
+
+$fav_shows = ["game of thrones"[0], "cyberpunk edgerunners"[1]];
+
+print("Мои любимые сериалы: " . $fav_shows);
 ?>
+
+\
